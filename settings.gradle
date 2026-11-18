@@ -1,0 +1,5 @@
+rootProject.name = 'UniversalFileConverter'
+
+include 'converter-core'
+include 'converter-backend'
+include 'converter-desktop'
